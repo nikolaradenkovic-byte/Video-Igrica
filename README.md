@@ -2,4 +2,4 @@
 FPS Video Igrica
 
 
-*dokumentacija je dostupna u pdf fajlu.*
+`dokumentacija je dostupna u pdf fajlu.`
